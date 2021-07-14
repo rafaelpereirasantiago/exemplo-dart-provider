@@ -1,0 +1,24 @@
+'en': {
+  'DocumentListPage': {
+	'title': 'Document List',
+	'actionHeaderColumnTitle': 'Actions',
+	'idHeaderColumnTitle': 'Id',
+	'descriptionHeaderColumnTitle': 'Description'
+  }
+},
+'es': {
+  'DocumentListPage': {
+	'title': 'Lista de Documentos',
+	'actionHeaderColumnTitle': 'Acciones',
+	'idHeaderColumnTitle': 'Id',
+	'descriptionHeaderColumnTitle': 'Descripción'
+  }
+},
+'ptBR': {
+  'DocumentListPage': {
+	'title': 'Lista de Documentos',
+	'actionHeaderColumnTitle': 'Ações',
+	'idHeaderColumnTitle': 'Id',
+	'descriptionHeaderColumnTitle': 'Descrição'
+  }
+}
